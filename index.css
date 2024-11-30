@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   align-items: center;
-  position: fixed;
+
   
 }
 
@@ -51,7 +51,7 @@ h2, h3 {
     border-radius: 50% ;
 }
     #card{
-        position: fixed;
+    
         display: flex;
         padding: 20px;
         border-radius: 6px;

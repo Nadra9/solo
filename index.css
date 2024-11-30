@@ -9,12 +9,12 @@ body {
     
   }
 
-#main {
-  background-image: url(R.jpg);
-  background-size: cover;
-  background-position: center;
-  height: 150px; 
-  
+  #main{
+    background-image: url(R.jpg);
+ background-size: cover;
+ background-position: center;
+ padding: 0px 120px 0px 120px;
+ height: 250px; 
 }
 
 h2, h3 {

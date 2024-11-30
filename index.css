@@ -1,10 +1,13 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  align-items: center;
-
-  
-}
+    margin: 0;
+    font-family: Arial, sans-serif;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: gainsboro;
+    
+  }
 
 #main {
   background-image: url(R.jpg);
